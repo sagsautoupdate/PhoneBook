@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+    </connectionStrings>
+  <appSettings>
+    <add key="ConnectionString" value="bOKBdmrcAX9BXOf6dI/tuRQ0kbsnQ3G9/DAnrrwyVe8P29G0PJw4ayTOk6X490Zz7oZTxB3AkHl2jVG8oZ9BcL5CAW9NsZGx2UcVDkUckqwp0WNLhbComdgxNIRPXo96uRq7kU9rrS/Z69Wg5XAc0A=="/>
+    <add key="ClientSettingsProvider.ServiceUri" value=""/>
+  </appSettings>
+</configuration>
